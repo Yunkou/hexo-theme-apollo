@@ -1,21 +1,22 @@
 menu:
-    Blog: /
-    Archive: /archives/
-    Weibo: http://weibo.com/sunchongsheng
-    GitHub: https://github.com/pinggod
-    Rss: /atom.xml
+  Blog: /
+  Archive: /archives/
+  Twitter: https://twitter.com/Yunlongkou
+  GitHub: https://github.com/Yunkou
+  Juejin: https://juejin.im/user/55edc49b60b294604dbc746e
+  Rss: /atom.xml
 
 favicon: /favicon.png
 logo: /favicon.png
 
 # Comment
 # e.g disqus: seansun
-disqus:
+disqus: yunkou-blog
 duoshuo:
 
 # Analytics
 # google-analytics:
-# ga: UA-xxxxxxxx-x
+ga: UA-71814553-1
 
 # Copyright Infomation
-startyear: 2015
+startyear: 2018
